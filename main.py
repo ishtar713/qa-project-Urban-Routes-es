@@ -91,5 +91,4 @@ class TestUrbanRoutes:
         @classmethod
         def teardown_class(cls):
             # Cerrar el navegador
-            time
-            cls.driver.quit()
+              cls.driver.quit()
