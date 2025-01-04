@@ -1,3 +1,4 @@
+## Ada Machado Cohorte 18
 ## Proyecto Urban Routes para automatización de pruebas
 
 ## Descripción
@@ -30,7 +31,9 @@ simulando el comportamiento de un usuario al realizar las siguientes acciones:
 - Git para clonar el repositorio
 
 ## Pasos de instalación
-1. Clonar el repositorio: git clone [URL del repositorio]
+1. Clonar el repositorio: 
+    ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git
 2. Abrir el proyecto en PyCharm
 3. Instalar las dependencias: pip install, pytest, selenium
 4. Asegurarse de que el WebDriver para tu navegador esté instalado y configurado correctamente
